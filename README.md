@@ -11,13 +11,13 @@
 
   <!-- Connect Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/vagisha-mandal-3aa46b412/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="vagisha.mandal.26@nsut.ac.in">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <a href="https://leetcode.com/vagisha26" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     <a href="https://x.com/YOUR_TWITTER_USERNAME" target="_blank">
