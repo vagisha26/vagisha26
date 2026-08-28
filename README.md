@@ -49,11 +49,22 @@ current_focus:
   - 🛠️ Building end-to-end full-stack scalable web applications
   - 🔬 Experimenting with Neural Networks, Computer Vision & LLMs
   - 📜 Developing decentralized apps (dApps) & smart contracts
-- 🎓 **Undergraduate Student** pursuing B.Tech at **NSUT Delhi** (Netaji Subhas University of Technology).
-- 💻 **Aspiring Full Stack Developer** dedicated to building modern, responsive, and user-centric web applications.
-- 🤖 **AI & ML Enthusiast** exploring deep learning, predictive modeling, NLP, and intelligent agents.
-- ⛓️ **Blockchain & Web3 Explorer** fascinated by decentralization, smart contracts, and decentralized ledgers.
+
 - 🚀 **Passionate about clean code, problem solving, collaborative development, and hackathons.**
+
+---
+
+###  C++ CSAI / DSA Style *(Academic & High Performance)* ⚡⚙️
+
+```markdown
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Fuel: ☕ | Passion: 💻 + 🤖 + ⛓️ | Infinite loop of learning 🚀\n";
+    return 0;
+}
+
 
 ---
 
